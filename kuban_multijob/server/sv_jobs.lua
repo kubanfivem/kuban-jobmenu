@@ -50,9 +50,9 @@ versionChecker = true -- Set to false to disable version checker
 
 
 -- Don't touch
-resourcename = "RPCore"
+resourcename = "kuban_multijob"
 version = "1.0.4"
-rawVersionLink = "https://raw.githubusercontent.com/Swqppingg/RPCore/main/version.txt"
+rawVersionLink = "https://raw.githubusercontent.com/kubanfivem/kuban-jobmenu/main/kuban_multijob/version.txt"
 
 -- Check for version updates.
 if versionChecker then
