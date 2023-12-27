@@ -26,6 +26,6 @@ ox_lib. [https://github.com/overextended/ox_lib/releases/tag/v3.1.4]
 3. Run the SQL in your database
 
 # How to Open?
-Default key to open is F10 or use /myjobs
+Default key to open is F4 or use /myjobs
 
 if someone is Fired from qb-management it will remove there job from the menu!
